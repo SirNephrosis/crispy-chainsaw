@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{O8tt:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),c=t("+ZDr"),l=t.n(c);a.default=function(){return r.a.createElement("div",{class:"head"},r.a.createElement("h2",null,"Beskrivande text"),r.a.createElement("p",null,"This is a paragraph"),r.a.createElement(l.a,{to:"/"},"go home"))}}}]);
+//# sourceMappingURL=component---src-pages-projects-suu-js-477369afa0b40f476322.js.map
